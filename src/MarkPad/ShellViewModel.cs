@@ -75,6 +75,7 @@ namespace MarkPad
             ActivateItem(mdi);
         }
 
+        // This sets display name - "MarkPad"
         public override string DisplayName
         {
             get { return "MarkPad"; }
